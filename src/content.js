@@ -81,7 +81,7 @@ export const CONTENT = {
 
   finale: {
     eyebrow: "CHAPTER V · FINALE",
-    title: "Happy 18th birthday, Nancy.",
+    title: "Felices 18 Corazon Te Amo Demasiado",
     description:
       "Esta nueva vuelta al sol resaltara lo increible y especial que eres mi vida ",
     letter:

@@ -83,7 +83,7 @@ export const CONTENT = {
     eyebrow: "CHAPTER V · FINALE",
     title: "Happy 18th birthday, Nancy.",
     description:
-      "Que esta nueva vuelta alrededor del sol esté llena de momentos que merezcan convertirse en estrellas.",
+      "Esta nueva vuelta al sol resaltara lo increible y especial que eres mi vida ",
     letter:
       "Hoy cumples dieciocho años y este pequeño universo es solo un recordatorio de todo lo que brillas, de lo lejos que vas a llegar y de lo especial que es coincidir contigo en esta vuelta al sol.",
     sign: "Con todo el cariño,",

@@ -3,7 +3,7 @@
 export const PROJECT = {
   name: "018",
   title: "A universe of its own",
-  recipient: "Nancy",
+  recipient: "My Nancy",
   birthday: "November 20",
 };
 
@@ -31,14 +31,14 @@ export const CONTENT = {
     eyebrow: "CHAPTER III",
     title: "EIGHTEEN",
     description:
-      "Eighteen little flowers for eighteen beautiful years. And countless springs yet to come.",
+      "18 Flores como tus vueltas al sol. Miles de Otoños mas por vivir",
     total: 18,
     wishes: [
       "Curiosity", "Joy", "Wonder", "Laughter", "Kindness", "Magic",
       "Courage", "Dreams", "Light", "Grace", "Adventure", "Hope",
       "Creativity", "Strength", "Warmth", "Radiance", "Wisdom", "A New Universe",
     ],
-    complete: "Eighteen blooms in full light — Happy 18th, Nancy.",
+    complete: "Eighteen blooms in full light — Felices 18, Mi preciosa .",
     button: "Explore the Stars",
   },
 

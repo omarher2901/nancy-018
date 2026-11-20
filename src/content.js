@@ -53,28 +53,28 @@ export const CONTENT = {
         orbit: "Inner Orbit",
         title: "Your Light",
         message:
-          "For the effortless way you make ordinary days feel brighter just by being yourself.",
+          "Eres como un elefante rosado, Desde el momento en el que te vi te extraño"
       },
       {
         label: "II",
         orbit: "Second Orbit",
         title: "New Horizons",
         message:
-          "Eighteen opens a whole new sky. May every path you choose lead to something extraordinary.",
+          "Gracias por tanto mi panalito de miel. Te Amo Mucho",
       },
       {
         label: "III",
         orbit: "Third Orbit",
         title: "A Little Wish",
         message:
-          "May you never lose your curiosity, your warmth, and that spark that makes you one of a kind.",
+          "Quiero amarte todo el día todos los días, así como cada día desde hace casi 4 años",
       },
       {
         label: "IV",
         orbit: "Outer Orbit",
         title: "Always Your Universe",
         message:
-          "No matter how far your dreams take you, this little corner of the cosmos celebrates you today.",
+          "Eres tan perfecta que sería hipócrita de mi parte no desearte",
       },
     ],
   },
